@@ -8,9 +8,9 @@ This is a console program to handle tasks. It contains features like task descri
 
 The application is able to enter commands and perform appropriate operations depending on the command that has been chosen by the user. The data for our program is stored in a text file `tasks.csv`in CSV format.
 All tasks are presented in the following format:
->Simple task - very important, 2020-03-09, true
->Second task not so important, 2020-05-10, false
->Throw away trash, 2020-03-09, false
+> Simple task - very important, 2020-03-09, true
+> Second task not so important, 2020-05-10, false
+> Throw away trash, 2020-03-09, false
 
 The application has the following features:
 > - displaying all available tasks
